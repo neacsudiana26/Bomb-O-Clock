@@ -1,6 +1,16 @@
-# Bomb-O-Clock
-Being one of the themes of the Erasmus+ project "Fostering the Transversal Digital Competences in Higher Education”, Bomb O’Clock was a group project, implemented in C++ utilizing Object-Oriented Programming (OOP) concepts.
-It
-proposes an interactive learning platform based on gamification, with the primary objective of helping users assimilate
-information from educational modules. To achieve this goal, a captivating, simple, and efficient game has been developed,
-which integrates a timing system ("beat the bomb") to add pressure and increase user engagement.
+# frontend
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
